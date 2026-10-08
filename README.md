@@ -7,6 +7,8 @@ and builds a wait-for graph that represents Rust's asynchronous semantics, on
 which it performs liveness hazard detection. The implementation lives in
 `rapx/src/analysis/future_lock`.
 
+**Note**: The code is currently being prepared and will be uploaded prior to the start of the conference on May 17, 2027.
+
 ## Usage
 
 ```console
